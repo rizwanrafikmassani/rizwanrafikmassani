@@ -86,7 +86,7 @@
   <img src="https://via.placeholder.com/150/228B22/fff?text=■" />
   <img src="https://via.placeholder.com/150/228B22/fff?text=■" />
   <img src="https://via.placeholder.com/150/228B22/fff?text=■" />
-  <img src="\Group 736.jpg" />
+  <img src="\MLCard.png" />
 </p>
 
 --- 
