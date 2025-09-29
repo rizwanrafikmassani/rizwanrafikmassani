@@ -86,7 +86,7 @@
   <img src="https://via.placeholder.com/150/228B22/fff?text=■" />
   <img src="https://via.placeholder.com/150/228B22/fff?text=■" />
   <img src="https://via.placeholder.com/150/228B22/fff?text=■" />
-  <img src="MLCard.png" width="50%"  />
+  <img src="MLCard.png"  />
 </p>
 
 --- 
