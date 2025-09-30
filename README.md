@@ -51,7 +51,7 @@
   <img src="https://via.placeholder.com/600x100/444/fff?text=Status+Box" />
 </p>
 
----
+
 <br>
 
 ## PROJECTS 
@@ -65,7 +65,7 @@
 
 </p>
 
----
+
 
 <br>
 
@@ -77,7 +77,6 @@
   <img src="https://via.placeholder.com/150/555/fff?text=■" />
 </p>
 
----
 
 <br>
 
@@ -90,10 +89,10 @@
   <img src="Certifications/DSCert.png"  /> </a>
 </p>
 
---- 
+
 
 <!-- FOOTER -->
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHNnZTY5MGp0cTJrMWlzcHRqYWJsY2V2ejNmNmU0NnBrMm5sdGI0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iCX6GhyjPx8OFHhEmn/giphy.gif" width="100%" height="200px" style="object-fit: cover;" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHJqajVnNWFrcXFsd3c3djRwcHI2MGI2amtjYmp2bmd1dHNoeThvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o72EZZlT4uMLI8MM0/giphy.gif" width="100%" height="200px" style="object-fit: cover;" />
 </p>
