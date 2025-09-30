@@ -86,7 +86,10 @@
   <img src="https://via.placeholder.com/150/228B22/fff?text=■" />
   <img src="https://via.placeholder.com/150/228B22/fff?text=■" />
   <img src="https://via.placeholder.com/150/228B22/fff?text=■" />
-  <img src="MLCard.png"  />
+  <img src="Certifications/MLCard.png"  />
+  <a href="https://www.sololearn.com/certificates/CC-OHJFNPO8"
+  target="_blank">
+  <img src="Certifications/DSCert.jpg"  /> </a>
 </p>
 
 --- 
