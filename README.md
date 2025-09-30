@@ -84,7 +84,6 @@
 
 <p>
   
-  <img src="Certifications/MLCard.png"  />
   <a href="https://www.sololearn.com/certificates/CC-OHJFNPO8"
   target="_blank">
   <img src="Certifications/DSCert.png"  /> </a>
