@@ -16,9 +16,9 @@
   <a href="https://www.linkedin.com/in/rizwanrafikmassani/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://medium.com/@rizwanrafikmassani">
-    <img src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
+ <a href="https://substack.com/@rizwanrafikmassani">
+  <img src="https://img.shields.io/badge/Substack-%23FF6719.svg?&style=for-the-badge&logo=substack&logoColor=white" />
+</a>
   <a href="https://www.youtube.com/@RizwanRafikMassani">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
