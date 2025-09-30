@@ -1,8 +1,8 @@
 
 <!-- 🖼️ BANNER -->
-![Banner](https://via.placeholder.com/1000x200.png?text=Your+Banner+Here)
-
-
+<p align="center">
+  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" alt="Cat typing" width="100%" />
+</p>
 <!-- 🔵 4 STACKED BADGES  -->
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
