@@ -1,8 +1,9 @@
 
 <!-- 🖼️ BANNER -->
 <p align="center">
-  <img src="banner.gif" width="100%" />
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Techy Banner" width="100%" />
 </p>
+
 <!-- 🔵 4 STACKED BADGES  -->
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
