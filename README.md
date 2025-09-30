@@ -1,7 +1,7 @@
 
 <!-- 🖼️ BANNER -->
 <p align="center">
-  <img src="banner.gif" alt="Cat typing" width="100%" />
+  <img src="banner.gif" width="100%" />
 </p>
 <!-- 🔵 4 STACKED BADGES  -->
 <p align="center">
