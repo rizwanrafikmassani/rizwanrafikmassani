@@ -1,7 +1,7 @@
 
 <!-- 🖼️ BANNER -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Techy Banner" width="100%" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjllbG14N2JqM3J6Zjd2bWhnbTJlODFiMmFmcHZmNTNtNjRwamJ2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif" width="100%" height="200px" style="object-fit: cover;" />
 </p>
 
 <!-- 🔵 4 STACKED BADGES  -->
@@ -91,3 +91,9 @@
 </p>
 
 --- 
+
+<!-- FOOTER -->
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHNnZTY5MGp0cTJrMWlzcHRqYWJsY2V2ejNmNmU0NnBrMm5sdGI0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iCX6GhyjPx8OFHhEmn/giphy.gif" width="100%" height="200px" style="object-fit: cover;" />
+</p>
