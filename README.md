@@ -86,7 +86,7 @@
   
   <a href="https://www.sololearn.com/certificates/CC-OHJFNPO8"
   target="_blank">
-  <img src="Certifications/DSCert.png"  /> </a>
+  <img src="Certifications/DSCert.jpg"  /> </a>
 </p>
 
 
