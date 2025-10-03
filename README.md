@@ -95,9 +95,6 @@
   <img src="Certifications/LLMCert.png" alt="LLM Cert" width="300" style="border-radius: 8px;">
 
 
-  <a href="https://www.sololearn.com/certificates/CC-OHJFNPO8" target="_blank">
-    <img src="Certifications/DSCert.jpg" alt="DS Cert" width="300" style="border-radius: 8px;">
-  </a>
 
 </div>
 
