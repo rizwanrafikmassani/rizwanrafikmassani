@@ -83,6 +83,10 @@
 ## 🎓 CERTIFICATIONS
 
 <p>
+  <img src="Certifications/MLCert.png" />
+</p>
+
+<p>
   
   <a href="https://www.sololearn.com/certificates/CC-OHJFNPO8"
   target="_blank">
