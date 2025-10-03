@@ -52,6 +52,7 @@
 </p>
 
 
+
 <br>
 
 ## PROJECTS 
@@ -64,7 +65,6 @@
 
 
 </p>
-
 
 
 <br>
@@ -80,18 +80,19 @@
 
 <br>
 
+
 ## 🎓 CERTIFICATIONS
 
-<p>
-  <img src="Certifications/MLCert.png" />
-</p>
 
-<p>
-  
-  <a href="https://www.sololearn.com/certificates/CC-OHJFNPO8"
-  target="_blank">
-  <img src="Certifications/DSCert.jpg"  /> </a>
-</p>
+<div style="display: flex; gap: 20px; align-items: center; flex-wrap: wrap; justify-content: center;">
+
+  <img src="Certifications/MLCert.png" alt="ML Cert" width="300" style="border-radius: 8px;">
+
+  <a href="https://www.sololearn.com/certificates/CC-OHJFNPO8" target="_blank">
+    <img src="Certifications/DSCert.jpg" alt="DS Cert" width="300" style="border-radius: 8px;">
+  </a>
+
+</div>
 
 
 
