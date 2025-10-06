@@ -103,5 +103,5 @@
 <!-- FOOTER -->
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHJqajVnNWFrcXFsd3c3djRwcHI2MGI2amtjYmp2bmd1dHNoeThvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o72EZZlT4uMLI8MM0/giphy.gif" width="100%" height="200px" style="object-fit: cover;" />
+  <img src="Footers/GitHubFooter.gif" width="100%" height="200px" style="object-fit: cover;" />
 </p>
