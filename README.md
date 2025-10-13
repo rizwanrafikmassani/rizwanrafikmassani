@@ -103,5 +103,5 @@
 <!-- FOOTER -->
 
 <p align="center">
-  <img src="Footers/Footers.gif" width="1200" height="200px" style="object-fit: cover;" />
+  <img src="Footers/Footers.gif" width="1200" height="100%" style="object-fit: cover;" />
 </p>
